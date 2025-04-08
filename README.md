@@ -53,9 +53,6 @@ The model achieved a test accuracy of **77.8%**, which is considered good for im
 
 Developed as part of the **Master’s in Data Science and Intelligent Systems** program.
 
-## 🎓 Supervisor
-
-- 🧑‍🏫 Prof. KHARROUBI Jamal
 
 ## 📸 How It Works
 
